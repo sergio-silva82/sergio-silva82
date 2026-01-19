@@ -1,5 +1,5 @@
 ## About me 👋
-Sou um profissional com mais de 10 anos de experiência em Análise e Desenvolvimento de Sistemas. Durante minha jornada, tive a oportunidade de trabalhar com uma grande variedade de
+Sou um profissional com mais de 10 anos de experiência, formado em Análise e Desenvolvimento de Sistemas e com MBA em Arquitetura de softwares e Soluções. Durante minha jornada, tive a oportunidade de trabalhar com uma grande variedade de
 ferramentas e tecnologias, especialmente em Java, JavaScript e em ambientes de banco de dados relacionais, como Oracle e SQL Server.
 Minha formação inclui um MBA em Arquitetura de Software e Soluções pelo IGTI e um curso de Análise e Desenvolvimento de Sistemas pela Faculdade Ideal. Ao longo da minha carreira, tive a
 chance de colaborar com empresas como Global Hitss do Brasil, Sankhya Gestão de Negócios, Stefanini Group e TOTVS, onde pude desenvolver e manter sistemas complexos, sempre focado
