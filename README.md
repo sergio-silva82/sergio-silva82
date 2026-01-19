@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## About me 👋
+Sou um profissional com mais de 10 anos de experiência em Análise e Desenvolvimento de Sistemas. Durante minha jornada, tive a oportunidade de trabalhar com uma grande variedade de
+ferramentas e tecnologias, especialmente em Java, JavaScript e em ambientes de banco de dados relacionais, como Oracle e SQL Server.
+Minha formação inclui um MBA em Arquitetura de Software e Soluções pelo IGTI e um curso de Análise e Desenvolvimento de Sistemas pela Faculdade Ideal. Ao longo da minha carreira, tive a
+chance de colaborar com empresas como Global Hitss do Brasil, Sankhya Gestão de Negócios, Stefanini Group e TOTVS, onde pude desenvolver e manter sistemas complexos, sempre focado
+em melhorar a eficiência e a qualidade dos projetos. Além das habilidades técnicas, também tenho uma trajetória com experiências diversas, como
+automação comercial e até o desenvolvimento de materiais de marketing. Em cada uma dessas etapas, busquei me adaptar às necessidades dos projetos e contribuir de maneira significativa para
+os resultados. Com o tempo, aprendi a trabalhar em equipe, a entender as necessidades do negócio, me
+comunico com facilidade em ambientes colaborativos, o que facilita a integração entre equipes e parceiros.
+Estou sempre em busca de novos aprendizados e desafios que me permitam crescer, tanto no aspecto técnico quanto profissional.
 <!--
 **sergio-silva82/sergio-silva82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
