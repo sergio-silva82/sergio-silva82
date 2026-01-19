@@ -9,9 +9,8 @@ os resultados. Com o tempo, aprendi a trabalhar em equipe, a entender as necessi
 comunico com facilidade em ambientes colaborativos, o que facilita a integração entre equipes e parceiros.
 Estou sempre em busca de novos aprendizados e desafios que me permitam crescer, tanto no aspecto técnico quanto profissional.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
-
-![Top Linguagens](https://github-readme-stats.vercel.app)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-silva82)<br/>
+(https://github.com/sergio-silva82/github-readme-stats)
 
 <!--
 **sergio-silva82/sergio-silva82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
