@@ -8,6 +8,11 @@ automação comercial e até o desenvolvimento de materiais de marketing. Em cad
 os resultados. Com o tempo, aprendi a trabalhar em equipe, a entender as necessidades do negócio, me
 comunico com facilidade em ambientes colaborativos, o que facilita a integração entre equipes e parceiros.
 Estou sempre em busca de novos aprendizados e desafios que me permitam crescer, tanto no aspecto técnico quanto profissional.
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+
+![Top Linguagens](https://github-readme-stats.vercel.app)
+
 <!--
 **sergio-silva82/sergio-silva82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
